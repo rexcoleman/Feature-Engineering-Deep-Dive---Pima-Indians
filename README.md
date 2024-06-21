@@ -11,4 +11,4 @@ Feature engineering is critical to improving model accuracy and performance. Thi
 ![Feature engineering example](img/FeatureEngineering.png)
 
 
-![feature_engineering_model_metrics](EDA_Model_Performance_Report.png)
+![feature_engineering_model_metrics](img/EDA_Model_Performance_Report.png)
