@@ -9,3 +9,6 @@ Feature engineering is critical to improving model accuracy and performance. Thi
 - **Practical Applications:** Demonstrates the practical value of feature engineering in achieving superior results. Applications include improving malware classification, phishing detection, intrusion detection systems (IDS), and anomaly detection in cloud security.
 
 ![Feature engineering example](img/FeatureEngineering.png)
+
+
+![feature_engineering_model_metrics](EDA_Model_Performance_Report.png)
