@@ -79,11 +79,11 @@ Creating new features from existing data can significantly enhance model perform
 - **Binary Features**: Creating binary indicators based on threshold values, such as age groups or glucose levels.
 
 *Figure 4: N4 Bar Chart*  
-![Feature engineering example](img/N4_barchart.png)  
+![Feature engineering example](img/glucose_bloodpressure_barplot.png)
 The bar chart above represents the distribution of a binary feature (N4) which combines glucose levels and blood pressure into a categorical variable.
 
 *Figure 5: N4 Pie Chart*  
-![Feature engineering example](img/N4_piechart.png)  
+![Feature engineering example](img/glucose_bloodpressure_piechart.png)
 The pie chart provides a visual representation of the binary feature N4, highlighting the proportion of diabetic vs. non-diabetic individuals.
 
 ## 3.4 Feature Encoding
@@ -109,7 +109,7 @@ A hybrid model combining LightGBM and K-Nearest Neighbors (KNN) is employed to f
 Model performance is evaluated using metrics such as accuracy, precision, recall, F1 score, and ROC-AUC. Confusion matrices and precision-recall curves are used to visualize model effectiveness.
 
 *Figure 6: Final Model Performance Report*  
-![Feature engineering example](img/final_model_performance.png)  
+![Feature engineering example](img/EDA_Model_Performance_Report.png)
 The final model performance report shows the confusion matrix, various performance metrics, the ROC curve, and the precision-recall curve for the LightGBM & KNN model.
 
 # 5. Conclusion
