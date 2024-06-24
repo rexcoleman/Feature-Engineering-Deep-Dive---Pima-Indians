@@ -21,6 +21,12 @@ Feature engineering is critical to improving model accuracy and performance. Thi
 
 *Figure 1: Surveillance privacy bias vector - This image illustrates the surveillance privacy bias vector and how serveillance related terms in blue tend to be above the line and privacy related terms in orange tend to be below the line.*
 
+<p align="center">
+  <img src="img/glucose_median.png" alt="Glucose Median" width="45%" />
+  <img src="img/blood_pressure_median.png" alt="Blood Pressure Median" width="45%" />
+</p>
+
+
 ![Feature engineering example](img/blood_pressure_median.png)
 
 *Figure 1: Surveillance privacy bias vector - This image illustrates the surveillance privacy bias vector and how serveillance related terms in blue tend to be above the line and privacy related terms in orange tend to be below the line.*
