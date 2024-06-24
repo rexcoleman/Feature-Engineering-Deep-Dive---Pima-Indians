@@ -9,28 +9,31 @@ Feature engineering is critical to improving model accuracy and performance. Thi
 - **Practical Applications:** Demonstrates the practical value of feature engineering in achieving superior results. Applications include improving malware classification, phishing detection, intrusion detection systems (IDS), and anomaly detection in cloud security.
 
 
-![Feature engineering example](img/glucose_distribution.png)
+![Glucose Distribution](img/glucose_distribution.png)
 
 *Figure 1: Glucose Distribution - The blue curve with a medium of 107.0 mmol/L represents healthy patients while the yellow curve with a medium of 140.0 mmol/L represnets diabetic patients.*
 
 
-![Feature engineering example](img/blood_pressure_distribution.png)
+![Blood Pressure Distribution](img/blood_pressure_distribution.png)
 
 *Figure 2: Blood Pressure Distribution - The blue curve with a medium of 70.0 mm Hg represents healthy patients while the yellow curve with a medium of 74.5 mm Hg represnets diabetic patients.*
 
-![Feature engineering example](img/glucose_bloodpressure_barplot.png)
-
-![Feature engineering example](img/glucose_bloodpressure_piechart.png)
+![Feature Engineering](img/FeatureEngineering.png)
 
 *Figure 1: Surveillance privacy bias vector - This image illustrates the surveillance privacy bias vector and how serveillance related terms in blue tend to be above the line and privacy related terms in orange tend to be below the line.*
 
-![Feature engineering example](img/blood_pressure_median.png)
+![Feature Engineering Bar Plot](img/glucose_bloodpressure_barplot.png)
 
 *Figure 1: Surveillance privacy bias vector - This image illustrates the surveillance privacy bias vector and how serveillance related terms in blue tend to be above the line and privacy related terms in orange tend to be below the line.*
 
-![Feature engineering example](img/FeatureEngineering.png)
+
+![Feature Engineering Pie Chart](img/glucose_bloodpressure_piechart.png)
 
 *Figure 1: Surveillance privacy bias vector - This image illustrates the surveillance privacy bias vector and how serveillance related terms in blue tend to be above the line and privacy related terms in orange tend to be below the line.*
+
+
+
+
 
 
 ![feature_engineering_model_metrics](img/EDA_Model_Performance_Report.png)
