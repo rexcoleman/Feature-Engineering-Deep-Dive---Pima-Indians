@@ -18,11 +18,9 @@ Feature engineering is critical to improving model accuracy and performance. Thi
 
 *Figure 2: Blood Pressure Distribution - The blue curve with a medium of 70.0 mm Hg represents healthy patients while the yellow curve with a medium of 74.5 mm Hg represnets diabetic patients.*
 
-<p align="center">
-  <img src="img/glucose_median.png" alt="Glucose Median" height="200" />
-  <img src="img/blood_pressure_median.png" alt="Blood Pressure Median" height="200" />
-</p>
+![Feature engineering example](img/glucose_bloodpressure_barplot.png)
 
+![Feature engineering example](img/glucose_bloodpressure_piechart.png)
 
 *Figure 1: Surveillance privacy bias vector - This image illustrates the surveillance privacy bias vector and how serveillance related terms in blue tend to be above the line and privacy related terms in orange tend to be below the line.*
 
