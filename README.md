@@ -52,6 +52,18 @@ The dataset comprises medical predictor variables and a target variable indicati
 ## 2.2 Initial Data Exploration
 Initial exploration involves inspecting the dataset for missing values, understanding the distribution of features, and examining the correlation between variables. This step sets the foundation for subsequent data preprocessing and feature engineering tasks.
 
+*Figure 1: Glucose Distribution*  
+![Feature engineering example](img/glucose_distribution.png)
+The above figure shows the distribution of glucose levels among the Pima Indian population. Higher glucose levels are typically associated with a higher likelihood of diabetes.
+
+*Figure 2: Blood Pressure Distribution*  
+![Feature engineering example](img/blood_pressure_distribution.png)
+The above figure displays the distribution of blood pressure readings in the dataset. Blood pressure is a significant predictor of diabetes.
+
+*Figure 3: Glucose vs. Blood Pressure Scatter Plot with Box*  
+![Feature engineering example](img/FeatureEngineering.png)
+This scatter plot highlights the relationship between glucose levels and blood pressure, with a boxed region indicating the concentration of healthy individuals.
+
 # 3. Data Preprocessing and Feature Engineering
 
 ## 3.1 Handling Missing Values
@@ -65,6 +77,14 @@ Creating new features from existing data can significantly enhance model perform
 - **Polynomial Features**: Generating higher-order terms to capture non-linear relationships.
 - **Interaction Features**: Combining features to capture interactions between variables.
 - **Binary Features**: Creating binary indicators based on threshold values, such as age groups or glucose levels.
+
+*Figure 4: N4 Bar Chart*  
+![Feature engineering example](img/N4_barchart.png)  
+The bar chart above represents the distribution of a binary feature (N4) which combines glucose levels and blood pressure into a categorical variable.
+
+*Figure 5: N4 Pie Chart*  
+![Feature engineering example](img/N4_piechart.png)  
+The pie chart provides a visual representation of the binary feature N4, highlighting the proportion of diabetic vs. non-diabetic individuals.
 
 ## 3.4 Feature Encoding
 Encoding categorical variables is crucial for machine learning models. Techniques used include:
@@ -88,6 +108,10 @@ A hybrid model combining LightGBM and K-Nearest Neighbors (KNN) is employed to f
 ## 4.3 Model Performance Metrics
 Model performance is evaluated using metrics such as accuracy, precision, recall, F1 score, and ROC-AUC. Confusion matrices and precision-recall curves are used to visualize model effectiveness.
 
+*Figure 6: Final Model Performance Report*  
+![Feature engineering example](img/final_model_performance.png)  
+The final model performance report shows the confusion matrix, various performance metrics, the ROC curve, and the precision-recall curve for the LightGBM & KNN model.
+
 # 5. Conclusion
 This project demonstrates the effectiveness of advanced feature engineering and machine learning techniques in predicting diabetes among the Pima Indian population. The use of LightGBM and hybrid models highlights the importance of model selection and hyperparameter tuning in achieving high predictive accuracy.
 
@@ -96,6 +120,7 @@ This project demonstrates the effectiveness of advanced feature engineering and 
 - [LightGBM Documentation](https://lightgbm.readthedocs.io/en/latest/Parameters-Tuning.html)
 - [Scikit-learn Documentation](https://scikit-learn.org/)
 - [Exploratory Data Analysis Techniques](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+
 
 
 
