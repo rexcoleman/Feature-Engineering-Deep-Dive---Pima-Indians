@@ -116,7 +116,8 @@ The final model performance report shows the confusion matrix, various performan
 This project demonstrates the effectiveness of advanced feature engineering and machine learning techniques in predicting diabetes among the Pima Indian population. The use of LightGBM and hybrid models highlights the importance of model selection and hyperparameter tuning in achieving high predictive accuracy.
 
 # 6. References
-- [Original Kaggle Notebook by @vincentlugat](https://www.kaggle.com/code/vincentlugat/pima-indians-diabetes-eda-prediction-0-906)
 - [LightGBM Documentation](https://lightgbm.readthedocs.io/en/latest/Parameters-Tuning.html)
 - [Scikit-learn Documentation](https://scikit-learn.org/)
 - [Exploratory Data Analysis Techniques](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+- [Original Kaggle Notebook by @vincentlugat](https://www.kaggle.com/code/vincentlugat/pima-indians-diabetes-eda-prediction-0-906)
+- [Kaggle Pima Indians Dataset]([https://www.kaggle.com/c/titanic](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
