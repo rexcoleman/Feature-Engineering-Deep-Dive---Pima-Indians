@@ -120,4 +120,4 @@ This project demonstrates the effectiveness of advanced feature engineering and 
 - [Scikit-learn Documentation](https://scikit-learn.org/)
 - [Exploratory Data Analysis Techniques](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 - [Original Kaggle Notebook by @vincentlugat](https://www.kaggle.com/code/vincentlugat/pima-indians-diabetes-eda-prediction-0-906)
-- [Kaggle Pima Indians Dataset]([https://www.kaggle.com/c/titanic](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- [Kaggle Pima Indians Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
